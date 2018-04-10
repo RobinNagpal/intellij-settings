@@ -1,4 +1,4 @@
 Additional Keymaps
 
-`cmd + shift + p` -> Project window
-`cmd + shift + b` -> Show Branches
+* `cmd + shift + p` -> Project window
+* `cmd + shift + b` -> Show Branches
