@@ -6,3 +6,4 @@ Additional Keymaps
 * `ctr + F4 ` -> Close Others
 * `ctr + e` -> Export Settings
 * `ctr + k` -> Key Promoter
+* `ctr + r` -> REPL
